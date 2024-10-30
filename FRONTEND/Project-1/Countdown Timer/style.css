@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: linear-gradient(to right, #12c2e9, #c471ed, #f64f59);
+}
+.container {
+    text-align: center;
+    background: linear-gradient(to right, #2193b0, #6dd5ed);
+    padding: 30px;
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgba(162, 6, 6, 0.1);
+}
+#timerDisplay {
+    font-size: 48px;
+    margin-top: 20px;
+}
